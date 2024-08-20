@@ -24,6 +24,8 @@ int main(){
     cout << endl;
     heap_sort(A, n);
     print (A, n);
+
+    cout << "End of program";
     
 
 
